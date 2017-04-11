@@ -45,3 +45,34 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 <li> You must have Providing a <b><i><a href='https://www.raspberrypi.org/products/raspberry-pi-3-model-b/'>RaspberryPi</a></i></b> [GPIO support series].</li><br>
 <li> You may need <b><i><a href='https://en.wikipedia.org/wiki/Breadboard'>BreadBoard</a></i></b> Electronic Boards.</li><br>
 <li> You may need <b><i><a href='https://www.adafruit.com/category/469'>Male/Female</a></i></b> Electronic Connectors.</li>
+</ul>
+<hr>
+<h2 id='pins'>Avalable Pins</h2>
+These Pins Can Use as your +/Possitive port:<br>
+<ul><li>3</li>
+<li>5</li>
+<li>7</li>
+<li>8</li>
+<li>10</li>
+<li>11</li>
+<li>12</li>
+<li>13</li>
+<li>15</li>
+<li>16</li>
+<li>18</li>
+<li>19</li>
+<li>21</li>
+<li>22</li>
+<li>23</li>
+<li>24</li>
+<li>26</li>
+<li>29</li>
+<li>31</li>
+<li>32</li>
+<li>33</li>
+<li>35</li>
+<li>35</li>
+<li>37</li>
+<li>38</li>
+<li>40</li>
+</ul>
