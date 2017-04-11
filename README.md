@@ -48,7 +48,9 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 </ul>
 <hr>
 <h2 id='pins'>Avalable Pins</h2>
-These Pins Can Use as your +/Possitive port:<br>
+These Pins Can Use as your +/Possitive port (the green ones):<br><br>
+
+<img src='https://www.element14.com/community/servlet/JiveServlet/previewBody/73950-102-10-339300/pi3_gpio.png' style='width:350px'/><br>
 <ul><li>3</li>
 <li>5</li>
 <li>7</li>
@@ -75,4 +77,5 @@ These Pins Can Use as your +/Possitive port:<br>
 <li>37</li>
 <li>38</li>
 <li>40</li>
+(know more at <a href=''>here</a>)
 </ul>
