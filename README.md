@@ -66,8 +66,8 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 <li>exmple :  <b>python Pins.py 0 on 10</b> <small>means: "Turn on all the pins after 10 second"</small></li>
 </ul>
 <h2 id='pins'>Avalable Pins</h2>
-These Pins Can Use as your +/Possitive port (the green ones):<br><br>
 <img src='http://saeedey.com/images/pi3_gpio.png'  style='width:350px'/><br>
+AND These Pins Can Use as your +/Possitive port (the green ones):<br>
 <ul><li>3</li>
 <li>5</li>
 <li>7</li>
