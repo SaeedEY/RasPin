@@ -9,7 +9,7 @@
 |  R     R   aaaaa aa   ssssss   P        ii   n        n  |
 |__________________________________________________________|
 |                                                          |
-|         All Rights Reserved © 2017 SaeedEY.com           |
+|     All Rights Reserved (Copyright) 2017 SaeedEY.com     |
 |  RasPin is an Open Source Script to Provide You an Easy  |
 |  Access to your RaspberryPi Pins Just to send out Power  |
 |  from Specified Pin.                                     |
