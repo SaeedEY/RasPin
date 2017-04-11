@@ -31,7 +31,6 @@
 |__________________________________________________________|
 
 </pre>
-<hr>
 <h2>Introduce</h2>
 Easy access to <b>RaspberryPi's</b> Pins just with <i><a href='#use'>Calling</a></i> the script.<br>
 It could control all the <b><a href='#pins'>PossiblePins</a></b> in your gadget.<br>
@@ -40,7 +39,6 @@ The RasPin has Written in <i><b>Python</b> Programming Language.</i><br>
 <h2>Notice</h2>
 It has too many Bugs And i didnt fix them , so apologize me.<br>
 <b>do not try to <i>Find</i> and <i>Fix</i> the Bugs of it unless you are genius Programmer , because it could Harm your Device hardly</b><br>
-<hr>
 <h2>Usage</h2>
 [!] - For using this Script:<ul>
 <li> You must have Installed <b><i><a href='https://www.python.org/downloads/'>Python3</a></i></b>.</li><br>
@@ -68,8 +66,6 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 <li>exmple :  <b>python Pins.py 0 r 0</b> <small>means: "Reset the pins after 0 second"</small></li>
 <li>exmple :  <b>python Pins.py 0 on 10</b> <small>means: "Turn on all the pins after 10 second"</small></li>
 </ul>
-
-<hr>
 <h2 id='pins'>Avalable Pins</h2>
 These Pins Can Use as your +/Possitive port (the green ones):<br><br>
 
