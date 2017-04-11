@@ -2,12 +2,12 @@
 <span style="color:#4E342E;font-size:17px">Raspberry Pi Pins Control , Easy Access for Beginners use.</span><br>
 <hr style="width:50%;margin-left:0px">
 <pre>
- __________________________________________________________                                                
+ __________________________________________________________ 
 |  RRRRR                         PPPPP                     |
 |  R    R                        P    P   ii               |
-|  R     R   aaaaa      ssssss   P     P       n nnnnnn    |   
+|  R     R   aaaaa      ssssss   P     P       n nnnnnn    |
 |  R    R   a     a    s         P    p   ii   nn      nn  |
-|  RRRRR   a       a    ssssss   PPPPP    ii   n        n  |    
+|  RRRRR   a       a    ssssss   PPPPP    ii   n        n  |
 |  R    R   a     aa          s  P        ii   n        n  |
 |  R     R   aaaaa aa   ssssss   P        ii   n        n  |
 |__________________________________________________________|
@@ -26,8 +26,10 @@
 |  USAGE:                                                  |
 |          python Pins [PinNumber] on/off/r [sleep/s]      |
 |  ValidPinsNumber:                                        |
-|        [3,5,7,8,10,11,12,13,15,16,18,19,21,22,23,24,26]  |
+|        [3,5,7,8,10,11,12,13,15,16,18,19,21,22,23,24,26,  |
+|         29,31,32,33,35,37,38,40]                         |
 |__________________________________________________________|
+
 </pre>
 <hr>
 <h2>Introduce</h2>
@@ -94,7 +96,7 @@ These Pins Can Use as your +/Possitive port (the green ones):<br><br>
 <li>32</li>
 <li>33</li>
 <li>35</li>
-<li>35</li>
+<li>36</li>
 <li>37</li>
 <li>38</li>
 <li>40</li>
