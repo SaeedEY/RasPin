@@ -50,7 +50,7 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 <h2 id='pins'>Avalable Pins</h2>
 These Pins Can Use as your +/Possitive port (the green ones):<br><br>
 
-<img src='https://www.element14.com/community/servlet/JiveServlet/previewBody/73950-102-10-339300/pi3_gpio.png' style='width:350px'/><br>
+<img src='http://saeedey.com/images/pi3_gpio.png' style='width:350px'/><br>
 <ul><li>3</li>
 <li>5</li>
 <li>7</li>
