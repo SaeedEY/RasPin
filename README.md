@@ -67,7 +67,6 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 </ul>
 <h2 id='pins'>Avalable Pins</h2>
 These Pins Can Use as your +/Possitive port (the green ones):<br><br>
-y
 <img src='http://saeedey.com/images/pi3_gpio.png'  style='width:350px'/><br>
 <ul><li>3</li>
 <li>5</li>
