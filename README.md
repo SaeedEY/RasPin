@@ -31,7 +31,7 @@
 </pre>
 <hr>
 <h2>Introduce</h2>
-Easy access to <b>RaspberryPi's</b> Pins just with <i><a href='#use'>Calling</a></i> the script.<br>
+Easy access to <b>RaspberryPi's</b> Pins just with <b><i><a href='#use'>Calling</a></i></b> the script.<br>
 It could control all the <b><a href='#pins'>PossiblePins</a></b> in your gadget.<br>
 The RasPin has Written in <i><b>Python</b> Programming Language.</i><br>
 <hr>
