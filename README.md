@@ -46,7 +46,7 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 <li> You may need <b><i><a href='https://en.wikipedia.org/wiki/Breadboard'>BreadBoard</a></i></b> Electronic Boards.</li><br>
 <li> You may need <b><i><a href='https://www.adafruit.com/category/469'>Male/Female</a></i></b> Electronic Connectors.</li>
 </ul>
-<h4>How To Use:</h4>
+<h4 id='use'>How To Use:</h4>
 <ol>
 <li>Open Console in Raspberry Pi OS</li>
 <li>Run Command: <i>Python Pins.py [Port] [on/off/r] [sleep/s]</i></li>
@@ -98,5 +98,5 @@ These Pins Can Use as your +/Possitive port (the green ones):<br><br>
 <li>37</li>
 <li>38</li>
 <li>40</li>
-(know more at <a href=''>here</a>)
+(know more at <a href='https://www.raspberrypi.org/documentation/usage/gpio/'>here</a>)
 </ul>
