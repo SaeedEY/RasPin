@@ -37,7 +37,7 @@ It could control all the <b><a href='#pins'>PossiblePins</a></b> in your gadget.
 The RasPin has Written in <i><b>Python</b> Programming Language.</i><br>
 <h2>Notice</h2>
 It has too many Bugs And i didnt fix them , so apologize me.<br>
-<b>do not try to <i>Find</i> and <i>Fix</i> the Bugs of it unless you are genius Programmer , because it could Harm your Device hardly</b><br>
+<b>do not try to <i>Find</i> and <i>Fix</i> the Bugs , unless you are genius Programmer , because it could Harm your Device hardly</b><br>
 <h2>Usage</h2>
 [!] - For using this Script:<ul>
 <li> You must have Installed <b><i><a href='https://www.python.org/downloads/'>Python3</a></i></b>.</li><br>
