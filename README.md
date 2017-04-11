@@ -1,6 +1,6 @@
-# <h2>RasPin</h2>
-Raspberry Pi Pins Control , Easy Access for Beginners use.<br>
-<hr>
+<h1>RasPin</h1>
+<span style="color:#4E342E;font-size:17px">Raspberry Pi Pins Control , Easy Access for Beginners use.</span><br>
+<hr style="width:50%;margin-left:0px">
 <pre>
  __________________________________________________________                                                
 |  RRRRR                         PPPPP                     |
@@ -29,3 +29,12 @@ Raspberry Pi Pins Control , Easy Access for Beginners use.<br>
 |        [3,5,7,8,10,11,12,13,15,16,18,19,21,22,23,24,26]  |
 |__________________________________________________________|
 </pre>
+<hr>
+<h2>Introduce</h2>
+Easy access to <b>RaspberryPi's</b> Pins just with <i><a href='#use'>Calling</a></i> the script.<br>
+It could control all the <b><a href='#pins'>PossiblePins</a></b> in your gadget.<br>
+The RasPin has Written in <i><b>Python</b> Programming Language.</i><br>
+<hr>
+<h2>Notice</h2>
+It has too many Bugs And i didnt fix them , so apologize me.<br>
+<b>do not try to <i>Find</i> and <i>Fix</i> the Bugs of it unless you are genius Programmer , because it could Harm your Device hardly</b><br>
