@@ -46,6 +46,27 @@ It has too many Bugs And i didnt fix them , so apologize me.<br>
 <li> You may need <b><i><a href='https://en.wikipedia.org/wiki/Breadboard'>BreadBoard</a></i></b> Electronic Boards.</li><br>
 <li> You may need <b><i><a href='https://www.adafruit.com/category/469'>Male/Female</a></i></b> Electronic Connectors.</li>
 </ul>
+<h4>How To Use:</h4>
+<ol>
+<li>Open Console in Raspberry Pi OS</li>
+<li>Run Command: <i>Python Pins.py [Port] [on/off/r] [sleep/s]</i></li>
+</ol>
+<h5>OR</h5>
+<ol>
+<li>Open Console in Raspberry Pi OS</li>
+<li>Run Command: <i>Python Pins.py</i></li>
+</ol>
+<hr style='width:40%;margin-left:0px'>
+<ul>
+<li><b>[Port]</b> => one of <a href='#pins'><b>Available Port</b></a>.</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if port == <b><i>0</i></b>, it would do action for all Ports.</li>
+<li><b>[On/Off/R]</b> => it do | ON <small>or</small> OFF <small>or</small> RESET | action.</li>
+<li><b>[Sleep/]</b> => this was delay befor start Action | SLEEP | as second .</li>
+<li>exmple :  <b>python Pins.py 3 on 1</b> <small>means: "Turn on port 3 after 1 second"</small></li>
+<li>exmple :  <b>python Pins.py 0 on 1</b> <small>means: "Turn on all the ports after 1 second"</small></li>
+<li>exmple :  <b>python Pins.py 0 r 0</b> <small>means: "Reset the pins after 0 second"</small></li>
+<li>exmple :  <b>python Pins.py 0 on 10</b> <small>means: "Turn on all the pins after 10 second"</small></li>
+</ul>
+
 <hr>
 <h2 id='pins'>Avalable Pins</h2>
 These Pins Can Use as your +/Possitive port (the green ones):<br><br>
