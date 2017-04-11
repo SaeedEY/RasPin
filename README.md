@@ -31,10 +31,17 @@
 </pre>
 <hr>
 <h2>Introduce</h2>
-Easy access to <b>RaspberryPi's</b> Pins just with <b><i><a href='#use'>Calling</a></i></b> the script.<br>
+Easy access to <b>RaspberryPi's</b> Pins just with <i><a href='#use'>Calling</a></i> the script.<br>
 It could control all the <b><a href='#pins'>PossiblePins</a></b> in your gadget.<br>
 The RasPin has Written in <i><b>Python</b> Programming Language.</i><br>
 <hr>
 <h2>Notice</h2>
 It has too many Bugs And i didnt fix them , so apologize me.<br>
 <b>do not try to <i>Find</i> and <i>Fix</i> the Bugs of it unless you are genius Programmer , because it could Harm your Device hardly</b><br>
+<hr>
+<h2>Usage</h2>
+[!] - For using this Script:<ul>
+<li> You must have Installed <b><i><a href='https://www.python.org/downloads/'>Python3</a></i></b>.</li><br>
+<li> You must have Providing a <b><i><a href='https://www.raspberrypi.org/products/raspberry-pi-3-model-b/'>RaspberryPi</a></i></b> [GPIO support series].</li><br>
+<li> You may need <b><i><a href='https://en.wikipedia.org/wiki/Breadboard'>BreadBoard</a></i></b> Electronic Boards.</li><br>
+<li> You may need <b><i><a href='https://www.adafruit.com/category/469'>Male/Female</a></i></b> Electronic Connectors.</li>
