@@ -35,7 +35,6 @@
 Easy access to <b>RaspberryPi's</b> Pins just with <i><a href='#use'>Calling</a></i> the script.<br>
 It could control all the <b><a href='#pins'>PossiblePins</a></b> in your gadget.<br>
 The RasPin has Written in <i><b>Python</b> Programming Language.</i><br>
-<hr>
 <h2>Notice</h2>
 It has too many Bugs And i didnt fix them , so apologize me.<br>
 <b>do not try to <i>Find</i> and <i>Fix</i> the Bugs of it unless you are genius Programmer , because it could Harm your Device hardly</b><br>
